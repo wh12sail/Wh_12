@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/weeb/.local/share/backgrounds/2023-11-06-13-15-02-default.png"
+let background = "#1f1b16"
+let foreground = "#f2e0cc"
+let cursor     = "#f2e0cc"
+
+" Colors
+let color0  = "#1f1b16"
+let color1  = "#CB7359"
+let color2  = "#C08C5D"
+let color3  = "#DE9870"
+let color4  = "#948082"
+let color5  = "#B1968F"
+let color6  = "#E7AF91"
+let color7  = "#f2e0cc"
+let color8  = "#a99c8e"
+let color9  = "#CB7359"
+let color10 = "#C08C5D"
+let color11 = "#DE9870"
+let color12 = "#948082"
+let color13 = "#B1968F"
+let color14 = "#E7AF91"
+let color15 = "#f2e0cc"
